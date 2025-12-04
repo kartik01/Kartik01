@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Next.js, TypeScript, React Native, REST APIs, GraphQL, GSAP**
 
-- 📫 How to reach me **writetoakshat981@gmail.com**
+- 📫 How to reach me **kartik2001pvt@gmail.com**
 
 - ⚡ Fun fact **I’ve solved 920+ DSA problems and I think I’m funny 😄**
 
